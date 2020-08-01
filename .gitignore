@@ -1,7 +1,9 @@
 # IDE files
 .DS_Store
-.vscode
 .idea
 .iml
 .history
 
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
